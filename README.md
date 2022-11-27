@@ -73,3 +73,9 @@ Email me at amroshekhzain@gmail.com or send a private message on LinkedIn to get
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=amroshehk&theme=dark&background=000000)](https://git.io/streak-stats)
+
+</br></br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amroshehk&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</br></br>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amroshehk&show_icons=true&theme=radical)
