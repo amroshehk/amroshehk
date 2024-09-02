@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amro Shekh Zain</h1>
-<h3 align="center">Android developer</h3>
+<h3 align="center">Software Engineer | Android Developer | Kotlin | Java | Jetpack Compose | Flutter Developer</h3>
 
 
 <div id="header" align="center">
@@ -27,7 +27,7 @@
 ### :woman_technologist: About Me :
 
 ★ Expert in Android Developer</br>
- 4+ years of native Android App Development experience.</br>
+ 5+ years of native Android App Development experience.</br>
 
 ★Skills and technologies</br>
  ✔Kotlin (coroutines and android-ktx).</br>
