@@ -27,10 +27,11 @@
 ### :woman_technologist: About Me :
 
 ★ Expert in Android Developer</br>
- 5+ years of native Android App Development experience.</br>
+ 7+ years of native Android App Development experience.</br>
 
 ★Skills and technologies</br>
  ✔Kotlin (coroutines and android-ktx).</br>
+ ✔JAVA.</br>
  ✔Android Framework and MVVM architecture;</br>
  ✔Experience with DevOps tools and processes, distributed source control systems such as Bitbucket or Git;</br>
  ✔ Firebase (database, authentication, analytics, notifications, remote config);</br>
@@ -50,6 +51,7 @@
  ✔Ability to understand business requirements and translate them into technical requirements;</br>
  ✔Supporting continuous improvement by investigating alternatives and new technologies and presenting these for architectural review.</br>
  ✔Troubleshooting and debugging to optimize performance.</br>
+  ✔Agile/Scrum.</br>
 
 I guarantee you will be satisfied with my work. and I will make sure your requirements are understood and accomplished in time and with excellent quality.</br>
 
